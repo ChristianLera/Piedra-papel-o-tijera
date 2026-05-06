@@ -1,0 +1,47 @@
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos generados por editores/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Archivos de logs y caché
+*.log
+*.cache
+*.tmp
+
+# Archivos de configuración local
+config.local.py
+settings_local.py
+
+# Archivos de empaquetado
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Archivos de cobertura de pruebas
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Archivos de sistema
+.svn/
+migrations/
+*.bak
+*.backup
