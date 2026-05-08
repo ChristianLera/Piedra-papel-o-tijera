@@ -1,6 +1,6 @@
 """
 PIEDRA, PAPEL O TIJERA - VERSIÓN PROFESIONAL
-Autor: Asistente IA
+Autor: Christian Lera
 Descripción: Juego completo con validaciones, puntuación y opción de múltiples rondas.
 """
 
